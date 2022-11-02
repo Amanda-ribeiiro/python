@@ -1,0 +1,5 @@
+if condicao: 
+   comando  
+   comando
+   comando
+

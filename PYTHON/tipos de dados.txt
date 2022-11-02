@@ -1,0 +1,20 @@
+class float = classe flutuando, representacao interna onde tem casas 
+depois da virgula.
+
+
+Quando queremos fazer uma divisao inteira utilizamos "//"
+ex:
+10 / 3 =  3.333333335  float
+10 // 3 = 3            divisao inteiro
+10 % 3 = 1             resto da divisao
+
+texto = "escrever alguma coisa"
+
+len texto = ele vai contar quantas palavras tem dentro da ""
+
+converter um valor numero p/ string:
+temp = str(IMC)
+len(temp)
+len (str(IMC))
+
+

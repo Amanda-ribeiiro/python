@@ -1,0 +1,32 @@
+VARIAVEIS BOLEANAS:
+INDICADORES DE PASSAGEM 
+
+decrescente = True
+anterior = int(input("Digite o primeiro numero da sequencia: "))
+
+valor = 1
+
+while valor != 0 and decrescente:
+	valor = int(input("Digite o proximo numero da sequencia: "))
+	if valor > anterior:
+		decrescente = False
+	anterior = valor 
+
+if decrescente:
+	print("A sequencia esta em ordem decrescente! :-) ")
+else:
+	print("A sequencia nao esta em ordem decrescente :-( ")
+
+
+
+DESAFIO INDICADOR DE PASSAGEM:
+dado número você que tem que dizer se esse número tem dois dígitos
+ adjacentes iguais. Então, só para pegar alguns exemplos aqui, 
+esse número aqui não tem nenhum dígito adjacente igual.
+ Já esse número aqui, tem dois dígitos adjacentes iguais. 
+O dois e o dois aqui são dois dígitos adjacentes iguais. 
+Esse aqui também, oito, oito, esse aqui também tem dois dígitos 
+adjacentes iguais. Então o programa que vocês têm que fazer, 
+isso é desafio, usando indicador de passagem, dado número com 
+vários dígitos, dizer se esse número tem dois dígitos adjacentes 
+iguais ou não

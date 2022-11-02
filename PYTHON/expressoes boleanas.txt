@@ -1,0 +1,24 @@
+Boleano = Matematico britanico George Boole valores what 
+podem ter apenas dois tipos de coisas.
+ex: true, false / 0, 1 / ligado, desligado
+class 'bool' = classe booleana 
+and == as duas tem que ser True
+or == He going escolher the resultado se a primeira parte ou the segunda e 
+True.
+
+
+TABELA DA VERDADE: OPERADORES LOGICOS;
+__________________________________________
+AND    TRUE   FALSE
+TRUE   True   False
+FALSE  False  False
+
+
+OR     TRUE   FALSE
+TRUE   True   True
+FALSE  True   True
+
+NOT    TRUE   FALSE
+       False  True
+
+

@@ -1,0 +1,77 @@
+O que è a ciência da computacão?
+R: uma nova ciência surgida em meados do sèculo XX.
+Engloba aspectos de varias ares do conhecimento
+humano: MATEMATICA, ENGENHARIA (construir sistemas,
+harware e software), Ciências Naturai (prever novos 
+conportamentos), Arte (simular ao que artista faz,
+escrever codigos), Esporte (tem que praticar muito,
+pra desenvolver habilidades).
+
+
+HABILIDADES:
+Capacidade de resolver problemas do mundo real 
+computacionalmente.
+- formula um problema do mundo real em termos 
+computacionais 
+- elaborar uma solucao para esse problema em termos 
+computacionais (algoritimo)
+- escrever um programa em uma linguagem de programaca
+que implemente esse algoritmo.
+- testar o programa para verificar se ele realmente 
+resolve o problema de forma correta.
+
+HABILIDADE MAIS AVANCADAS:
+- gerencias software de grande porte composto por 
+muitos programas, varios dees de grande porte.
+- construir software para lidar com grandes quantidades
+de dados. (big data, mineracao de dados, aprendizado de maquina)
+- Gerenciar equipes de desenvolvimento de software
+- comunicar-se com clientes e usuarios para entender os
+seus problemas, dificuldades e necessidades.
+
+-formula questoes
+- pensar criativamente
+- expressa a solucao de forma clara e precisa.
+- aprender a programar.
+
+
+
+
+ALGORITMO: 
+* uma lista de instrucoes passo-a-passo para resolver 
+um determinado problema.
+* analisar o problema
+* criar um algoritmo generico que resolva esse problema
+escrever um programa que implemente esse algoritmo
+testar o programa para verificar que ele realmente funciona.
+
+
+
+LINGUAGEM DE PROGRAMACAO:
+- formais, precisas e cujas instrucoes podem ser executadas
+por um computador.
+
+linguagem de baixo nivel:
+* linguagem de maquina 
+* linguagem de montagem (assembly)
+
+Linguagem de alto nivel:
+*Python
+*Java
+*Ruby
+*C/C++
+*JAvaScrip
+
+
+linguagem interpretadas
+codigo fonte = interpretador = saida (tela, imprimir)
+
+linguagem compiladas
+codigo fonte = compilador = codigo objeto = exeutor = saida
+
+
+
+LINGUAGEM INTERPRETADAS E COMPILADAS
+Ex: Java, Python
+
+

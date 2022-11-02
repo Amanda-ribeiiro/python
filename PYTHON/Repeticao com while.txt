@@ -1,0 +1,50 @@
+SEMANA 4 -
+repeticao numa programacao - comando WHILE
+para imprirmir a potencia de 2 utilizamos a seguinte logica:
+print (2 ** 0)
+print (2 ** 1)
+print (2 ** 2)
+print (2 ** 3)
+
+formato:
+while condicao:(enquanto esta condicoes for verdadeira ele executa)
+	comando1
+	comando2
+SE FOR FALSA ELE PULA PRO "COMANDO3"
+comando 3
+
+VARIAVEL = i
+ex:
+i = 0
+
+while i <= 20:      (estamos limitando ate o numero 20 mas pode ser alterado)
+	print(2 ** i)  (imprimir 2 x o valor de "i")
+	i = i + 1       (i vai ser igual a "i" + 1)
+
+inclementar valor = i = i +1
+
+
+SOMA DE UMA SEQUENCIA DE NUMEROS:
+EX: 
+
+print("Digite um sequencia de valores terminadas por zero.")
+soma = 0 (elemento neutro da soma que è igual a "0")
+
+valor = 1 (deifinir valor antes do while rodar senao vai dar erro pois nao foi definido)
+while valor != 0: (enquanto o valor for diferente de "0" ir somando)
+	valor = input("Digite um valor a ser somado: ")
+	soma = soma + valor ( soma recebe o valor antigo da soma + o valor digitado pelo usuario)
+tomar cuidado com espacos e tab tem que ser usado o mesmo no comando senao da erro.
+
+
+MULTIPLICACAO EXEMPLO:
+
+print("Digite um sequencia de valores terminadas por zero.")
+produto = 1 (elemento neutro da multiplicacao è "1")
+
+valor = 1
+while valor != 0:
+	valor = int(input("Digite um valor a ser multiplicado: "))
+	produto = produto * valor
+
+print("O produto dos valores digitados è: ", produto)

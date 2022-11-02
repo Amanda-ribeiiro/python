@@ -1,0 +1,6 @@
+SOFWARE LIVRE 
+DEFINICAO:
+- liberdade para executar o programa
+- liberdada para estudar e modificar o programa
+- liberdade para distribuir o programa
+- liberdade para melhorar e redistribuir as melhorias ao programa

@@ -1,0 +1,12 @@
+FUNCOES:
+semelhantes a de matematica, recebe valores paramentros 
+faz algum calculo e devolve o resultado.
+
+comando: DEF (palavra reserva em python)
+def = definindo uma novo conceito uma funcao
+
+O nome da função deve descrever claramente o que a função faz. 
+
+
+
+coeficiente binominal 
