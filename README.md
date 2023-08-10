@@ -1,7 +1,5 @@
 # [Introdução à Ciência da Computação com Python Parte 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos/home/week/1) <img src="https://github.com/Amanda-ribeiiro/python/assets/108890154/94361ecf-d603-4ba0-8e0a-ff3cdcdda391" alt="Imagem" width="80"/>
 
-[👩🏻‍🎓 Certificado de conclusão](https://coursera.org/share/b852024b67acb266789b459c9c4901ca)
-
 ## Módulos
 <ol>
   <li><a href="https://www.coursera.org/learn/ciencia-computacao-python-conceitos/home/week/1">Introdução</li>
@@ -16,3 +14,5 @@
 </ol>
 
 
+##
+[👩🏻‍🎓 Certificado de conclusão](https://coursera.org/share/b852024b67acb266789b459c9c4901ca)
